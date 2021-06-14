@@ -10,4 +10,21 @@ Exercise making web services.
 - ESLint
 - Prettier
 
-test
+Amazon Services
+Front end
+
+- S3
+- CloudFront
+
+Back end
+
+- API Gateway (Lambda)
+- DynamoDB
+
+Log
+
+- CloudWatch
+- X-Ray
+- Identity and Access Management
+
+ctrl + Shift + P
