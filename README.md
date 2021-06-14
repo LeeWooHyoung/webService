@@ -27,4 +27,5 @@ Log
 - X-Ray
 - Identity and Access Management
 
-ctrl + Shift + P
+Visual Studio 단축키
+ctrl + Shift + P : 명령어 실행
